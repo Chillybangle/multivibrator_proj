@@ -1,0 +1,35 @@
+
+== Multivibrator
+Ostrovnoy Kirill <ostrovnoi.ka@phystech.edu>
+
+Stages of the course on the development and manufacture of a printed circuit board at the phystech factory
+
+== Virtual simulation
+
+Assemble the multivibrator in tinkercad and make sure that it works
+
+image::https://raw.githubusercontent.com/Chillybangle/multivibrator_proj/main/modules/ROOT/images/tinkercadView1.jpg[]
+
+== Full-scale modeling
+
+Let's check the efficiency of the scheme in life
+
+image::https://raw.githubusercontent.com/Chillybangle/multivibrator_proj/main/modules/ROOT/images/nature_model.jpg[]
+
+== Circuit
+
+Develop a circuit and its printed circuit board in EasyEDA
+
+image::https://raw.githubusercontent.com/Chillybangle/multivibrator_proj/main/modules/ROOT/images/scheme.png[]
+
+image::https://raw.githubusercontent.com/Chillybangle/multivibrator_proj/main/modules/ROOT/images/printed_circuit_board.png[]
+
+== Manufacture of printed circuit board
+
+To prepare the production file for the Charly4U machine software, we use the FlatCAM program.  Let's work a little with our hands
+
+image::https://raw.githubusercontent.com/Chillybangle/multivibrator_proj/main/modules/ROOT/images/plate.jpg[]
+
+== Course website
+
+http://class.skycluster.net/fabrika/mini-course/e42-mini-course/index.html[Link to the source]
